@@ -26,6 +26,7 @@ I have knowledge of spring framework.
 * SQL
 * Java
 * Spring MVC
+* JS
 
 ****************************************************************************
 
